@@ -559,7 +559,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0px;
-	background-image: url(../img/tumblr_n8q3ocYvxA1tubinno1_1280.jpg);
+	background-image: url(../img/1.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -570,7 +570,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/tumblr_na06qtTQ101tubinno1_1280.jpg);
+	background-image: url(../img/2.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -581,7 +581,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/tumblr_na06rsMKCT1tubinno1_1280.jpg);
+	background-image: url(../img/3.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -592,7 +592,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/tumblr_nau9zqjZay1tubinno1_1280.jpg);
+	background-image: url(../img/4.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -603,7 +603,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/heydays_mellbye_11-1440x900.jpg);
+	background-image: url(../img/5.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -614,7 +614,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/heydays_nora01-1440x900.jpg);
+	background-image: url(../img/6.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -625,7 +625,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/heydays_nora04-1440x900.jpg);
+	background-image: url(../img/7.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -636,7 +636,7 @@ Work Thumbnails
 	width: 24.7%;
 	height: 300px;
 	margin: 0;
-	background-image: url(../img/heydays_nora022-1440x900.jpg);
+	background-image: url(../img/8.jpg);
 	background-size: cover;
 	display: inline-block;
 }
@@ -841,7 +841,7 @@ About Page Style
 .cd-intro-about {
   position: relative;
   height: 100%;
-  background: url(https://s3-us-west-1.amazonaws.com/photos.snapwi.re/Week+10/SW_CalebMorris1.jpg) no-repeat center center;
+  background: url(../img/9.jpg); no-repeat center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
