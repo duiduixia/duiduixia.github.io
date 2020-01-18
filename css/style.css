@@ -442,7 +442,7 @@ The .cd-intro change the background image
 .cd-intro {
   position: relative;
   height: 100%;
-  background: url(http://static.tumblr.com/1ccbc9v/D5snc75yq/cd-intro-bg.jpg) center center;
+  background: url(../img/1.jpg) center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
@@ -967,13 +967,13 @@ About Page Style
 
 /* -------------------------------- 
 
-Project Page Style
+zhenghun Page Style
 
 -------------------------------- */
 .cd-intro-project {
   position: relative;
   height: 100%;
-  background: url(http://heydays.no/wp-content/uploads/2013/11/heydays_nora04-1440x900.jpg) no-repeat center center;
+  background: url(../img/16.jpg) no-repeat center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
@@ -1189,36 +1189,15 @@ Project Page Style
 }
 
 
-/* -------------------------------- 
-
-Work Page Style
-
--------------------------------- */
-.cd-intro-work-page {
-  position: relative;
-  height: 100%;
-  background: url(http://s30.postimg.org/cow70ngjz/projects_bg_img.gif) center center;
-  background-size: cover;
-  z-index: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-@media only screen and (min-width: 1170px) {
-  .cd-intro-work-page {
-    height: 400px;
-  }
-}
-
 
 /* -------------------------------- 
 
-Blog Post Style
+caihongpi Post Style
 
 -------------------------------- */
 .cd-intro-blog {
   position: relative;
-  background: url(http://31.media.tumblr.com/428371076fae027a25221832ada0a540/tumblr_nau9zqjZay1tubinno1_1280.jpg) no-repeat center center;
+  background: url(../img/12.jpg) no-repeat center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
@@ -1290,7 +1269,7 @@ Blog Post Style
 .cd-intro-blog-post {
   position: relative;
   height: 100%;
-  background: url(http://heydays.no/wp-content/uploads/2013/11/heydays_nora04-1440x900.jpg) no-repeat center center;
+  background: url(../img/2.jpg) no-repeat center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
@@ -1441,12 +1420,12 @@ Blog Post Style
 
 /* -------------------------------- 
 
-Contact Page Style
+yulu Page Style
 
 -------------------------------- */
 .cd-intro-contact {
   position: relative;
-  background: url(http://static.tumblr.com/1ccbc9v/tBPncd7pp/cd-content-contact-bg_img.jpg) no-repeat center center;
+  background: url(../img/14.jpg) no-repeat center center;
   background-size: cover;
   z-index: 1;
   -webkit-font-smoothing: antialiased;
