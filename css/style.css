@@ -880,13 +880,13 @@ About Page Style
 	height: 450px;
 }
 .cd-main-content-services-img img {
-	width: 50%;
+	width:100%;
 	height: 450px;
 	max-width: 640px;
 	float: left;
 }
 .cd-main-content-services-txt {
-	width: %;
+	width: 50%;
 	max-width: 640px;
 	height: 450px;
 	float: right;
